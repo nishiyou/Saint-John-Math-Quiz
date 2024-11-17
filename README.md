@@ -1,4 +1,4 @@
-📚 School Quiz App
+📚 Saint John Quiz App
 An interactive Android quiz application designed to introduce and encourage the use of technology for studying.
 
 🌟 Purpose
